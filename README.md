@@ -1,6 +1,6 @@
 Getting-and-Cleaning-Data-Course-Project
 ========================================
-I submitted run_analysis.R, which performs cleaning, and aggregation. It outputs one data set "data", which consists of 180 rows and 563 columns.
+Submitted run_analysis.R, which performs cleaning, and aggregation. It outputs one data set "data", which consists of 180 rows and 563 columns.
 Performed the below:
 -Read the data provided in all files.
 -Performed rbind on X_train and X_test.
